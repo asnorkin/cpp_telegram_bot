@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -Wpedantic -g -std=c++17 -g   CMakeFiles/fake.dir/telegram/fake_main.cpp.o  -o fake libtelegram.a -lPocoNet -lPocoNetSSL -lPocoFoundation -ljsoncpp 

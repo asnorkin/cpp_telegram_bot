@@ -1,0 +1,6 @@
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/test_telegram.dir
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/fake.dir
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/bot.dir
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/cmake-build-debug/CMakeFiles/telegram.dir

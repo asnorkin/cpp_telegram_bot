@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtelegram.a  CMakeFiles/telegram.dir/telegram/fake.cpp.o CMakeFiles/telegram.dir/telegram/fake_data.cpp.o
+/usr/bin/ranlib libtelegram.a

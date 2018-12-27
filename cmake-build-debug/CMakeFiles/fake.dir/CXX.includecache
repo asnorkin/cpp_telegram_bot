@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././telegram/fake.h
+string
+-
+memory
+-
+Poco/Net/HTTPServer.h
+-
+Poco/Net/ServerSocket.h
+-
+
+/home/alexaxnder/Developer/DAS/C++/repo/shad-cpp/bot/telegram/fake_main.cpp
+iostream
+-
+telegram/fake.h
+-
+

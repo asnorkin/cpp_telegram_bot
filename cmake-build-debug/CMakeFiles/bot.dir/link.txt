@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -Wpedantic -g -std=c++17 -g   CMakeFiles/bot.dir/telegram/main.cpp.o CMakeFiles/bot.dir/telegram/bot.cpp.o CMakeFiles/bot.dir/telegram/bot_api.cpp.o  -o bot libtelegram.a -lPocoNet -lPocoNetSSL -lPocoFoundation -ljsoncpp 
