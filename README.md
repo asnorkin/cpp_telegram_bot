@@ -6,8 +6,15 @@ This library provides a pure C++ interface for the Telegram Bot API based on Poc
 ### Usage
 
 ```
-Bot bot(kBotToken, kBotFirstName, "information");
-bot.Run();
+#include "bot.h"
+
+int main(int argc, char* argv[]) {
+    std::string kBotToken = ...
+    std::string kBotFirstName = ...;
+    Bot bot(kBotToken, kBotFirstName, "information");
+    bot.Run();
+    return 0;
+}
 ```
 
 Also you should implement message handling logic in function `void ProcessMessage(const Message& message)` in `bot.cpp` and few of the following methods depending on what types of messages you want to handle:
