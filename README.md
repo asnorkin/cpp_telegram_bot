@@ -40,4 +40,5 @@ This library provides base classes for telegram API and methods to use them in m
  - Sticker
  - Update
  - User  
+
 but you can easily add other in `bot_api.h` by analogue.
